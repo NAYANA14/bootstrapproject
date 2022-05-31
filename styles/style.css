@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Bebas+Neue&family=Hurricane&family=Island+Moments&family=Lato:wght@100&family=Lobster&family=Luxurious+Roman&family=Neonderthaw&family=Pacifico&family=Roboto:ital,wght@0,100;1,700&family=Staatliches&display=swap');
+nav{
+    background-color:rgb(39, 6, 39);
+}
+.card:hover{
+    box-shadow: 2px 2px 20px rgba(58, 3, 49, 0.4);
+}
+.carousel-caption{
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+}
+.navbar-brand{
+    font-family: 'Tiro Gurmukhi', serif;
+}
+h3{
+    color:rgb(89, 11, 134);
+    font-family: 'Tiro Gurmukhi', serif;
+    font-weight:900;
+    
+
+}
+.bottom-bar{
+    background-color:rgb(31, 21, 36);
+}
+footer{
+    background-color:rgb(16, 2, 24);
+}
+
+.review img{
+    height:300px;
+    width:300px;
+}
+
+
